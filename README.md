@@ -14,3 +14,16 @@ Coursera Capstone Final Project
     it is imperative to start and exploratory analysis using data on the french government portal (open source data) and as
     well elevating the acquired data with Foursquare API to attempt a clustering of Paris distircts/arrondissements 
     according to the venues categories. 
+    
+    
+### DATA 
+    The French government has a rich open source portal with availabe data on www.data.gouv.fr.
+    A csv file containing hot encoded data with venues accorss the french republic territory,
+    in addition to communes/districts codes that will facilitate to filter the rows to narrow it
+    down to the capital Paris and its 20 districts/arrondissements. After conducting a preliminary
+    exploration of the distircts and their venues in the government open source data, it will be benificial
+    to call Foursquare API on those 20 districts and explore in depth the categories, and attemp a
+    significant clustering of the 20 districts according to the venues logged in. This initial study
+    will give an idea of the venues, their location and the potential benefits of promoting tailored
+    tourism away from mainstream tourism, and elaborate more creative toursitic destiantion and 
+    expeirences. 
